@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
