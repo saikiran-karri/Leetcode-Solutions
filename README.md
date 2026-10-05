@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0085-maximal-rectangle](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
