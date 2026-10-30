@@ -70,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## String
 |  |
