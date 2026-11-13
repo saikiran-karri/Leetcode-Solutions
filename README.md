@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0050-powx-n) |
 ## Linked List
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
