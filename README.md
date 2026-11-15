@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
