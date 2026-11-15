@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0741-cherry-pickup](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
