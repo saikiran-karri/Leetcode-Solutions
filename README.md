@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
