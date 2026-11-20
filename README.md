@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0741-cherry-pickup](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
