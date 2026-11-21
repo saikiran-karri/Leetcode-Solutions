@@ -135,16 +135,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
