@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/saikiran-karri/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Binary Search
 |  |
 | ------- |
